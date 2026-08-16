@@ -190,8 +190,8 @@ System Design               ███████████░░░░░░�
 
 ## 🤝 Let's Connect
 
-<!-- <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<p align="left">
+  <a href="https://www.linkedin.com/in/siddharth-tiwari1712/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YOUR_USERNAME">
@@ -203,4 +203,4 @@ System Design               ███████████░░░░░░�
 
 <p align="center">
   <i>Building. Learning. Solving. 🚀</i>
-</p> -->
+</p> 
